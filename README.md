@@ -43,15 +43,15 @@ Is there any information about the market size of this set of customers?
 
 3. What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-`Aladdin is BlackRock's end-to-end investment management and operations platform used by institutional investors including asset managers, pension funds, insurers and corporate treasurers.`
-
-4. Which technologies are they currently using, and how are they implementing them? 
-
 `Aladdin: BlackRock's investment operating system that connects people, information, and technology to manage money in real time. Aladdin stands for Asset, Liability, and Debt & Derivative Investment Network. Aladdin uses AI and ML to process data and provide insights to help investment managers make decisions.`
 
 `Aladdin Data Cloud: BlackRock's managed data-as-a-service solution powered by Snowflake's data platform`
 
 `Cachematrix: A platform designed to optimize time and resources.`
+
+4. Which technologies are they currently using, and how are they implementing them? 
+
+`HTML5, jQuery, Google Analytics, Viewport, Meta, IPhone / Mobile Compatible, Apple Mobile Web Clips Icon`
 
 ---
 
@@ -133,3 +133,4 @@ Is there any information about the market size of this set of customers?
 6. https://www.blackrock.com/us/individual/about-us/about-blackrock
 7. https://www.blackrock.com/aladdin
 8. https://businesschronicler.com/competitors/blackrock-competitors-analysis/
+9. https://www.crunchbase.com/organization/blackrock/technology
