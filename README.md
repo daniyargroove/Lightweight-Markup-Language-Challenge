@@ -1,4 +1,4 @@
-# Capital Investment
+# Week 0 Case Study
 
 ## Overview and Origin
 Company's logo: ![Logo](blackrock_logo.jpg)
