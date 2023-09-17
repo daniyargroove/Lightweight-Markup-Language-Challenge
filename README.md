@@ -120,7 +120,9 @@ Is there any information about the market size of this set of customers?
 `It would utilize technology such as smart contracts.`
 
 4. Why are these technologies appropriate for your solution?
+
 `Creating investment products or funds focused on cryptocurrencies could attract a new client base and diversify the firm's offerings.`
+
 ---
 ## Web resources:
 1. https://www.cambridge.org/core/journals/business-and-politics/article/hidden-power-of-the-big-three-passive-index-funds-reconcentration-of-corporate-ownership-and-new-financial-risk/30AD689509AAD62F5B677E916C28C4B6
