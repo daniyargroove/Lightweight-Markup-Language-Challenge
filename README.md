@@ -107,19 +107,19 @@ Is there any information about the market size of this set of customers?
 ---
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? 
+1. If you were to advise the company, what products or services would you suggest they offer? 
 
 `With the increasing interest in cryptocurrencies and blockchain technology, asset managers have been exploring digital asset management products. BlackRock may consider entering this space by offering investment products related to cryptocurrencies or blockchain-based assets.`
 
-* Why do you think that offering this product or service would benefit the company?
+2. Why do you think that offering this product or service would benefit the company?
 
 `I think that offering blockchain technology would definitely benifit the company, because cryptographic principles can provide high security measures to protect sensitive client and financial data. In my opinion it is important for maintaining trust in capital management industry.`
 
-* What technologies would this additional product or service utilize?
+3. What technologies would this additional product or service utilize?
 
 `It would utilize technology such as smart contracts.`
 
-* Why are these technologies appropriate for your solution?
+4. Why are these technologies appropriate for your solution?
 `Creating investment products or funds focused on cryptocurrencies could attract a new client base and diversify the firm's offerings.`
 
 Web resources:
