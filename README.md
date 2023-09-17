@@ -1,7 +1,7 @@
 # Capital Investments
 ---
 ## Overview and Origin
-Company's logo: ![Logo]()
+Company's logo: ![Logo](blackrock_logo.jpg)
 1. What is the name of the company? 
 
 **BlackRock**
